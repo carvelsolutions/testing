@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": 100001,
+      "category": "animal welfare",
+      "title": "Dog adoption day",
+      "description": "Find your new canine friend at this event.",
+      "location": "Woofton",
+      "date": "January 31st, 2027",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organiser": "Autumn Cafe"
+    },
+    {
+      "id": 100002,
+      "category": "animal welfare",
+      "title": "Cat adoption day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Woofton",
+      "date": "February 28th, 2027",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organiser": "Autumn Cafe"
+    },
+    {
+      "id": 100003,
+      "category": "community",
+      "title": "Community Gardening",
+      "description": "Help out at the local community garden and learn about horticulture.",
+      "location": "Woofton",
+      "date": "March 31st, 2027",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organiser": "Spring Shack"
+    }
+  ]
+}
